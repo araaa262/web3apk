@@ -34,7 +34,7 @@ detect_os
 
 echo ""
 echo -e "${CYAN}=========================================${NC}"
-echo -e "${CYAN}  Web2APK Gen 3 - VPS Setup${NC}"
+echo -e "${CYAN}  Web2APK KawakunChan - VPS Setup${NC}"
 echo -e "${CYAN}=========================================${NC}"
 echo -e "${CYAN}  Detected OS: ${GREEN}$OS_NAME $OS_VERSION ($OS_CODENAME)${NC}"
 echo ""

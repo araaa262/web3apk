@@ -23,7 +23,7 @@ fi
 
 # Check arguments
 if [ -z "$1" ] || [ -z "$2" ]; then
-    echo "Usage: sudo ./setup-local-api.sh <21562829> <27d43298df18cf3ada9e56b174b0e305>"
+    echo "Usage: sudo ./setup-local-api.sh <API_ID> <API_HASH>"
     echo ""
     echo "Get API_ID and API_HASH from https://my.telegram.org"
     echo ""
